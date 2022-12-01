@@ -1,0 +1,49 @@
+#Recorte do dataset Inventario de sp usando o limite da mata atlantica
+#Definir diretorio de trabalho
+setwd("D:/Github-Mamiferos-Urbanos-Mata-Atlantica/dataset")
+getwd()
+#Abrir planilha CSV
+Inventario_sp <- read.csv("Inventario_sp_dataset.csv", sep=",", header=T, dec='.', na.strings = c("NULL","NA",""), as.is=TRUE)
+#Visualizar CSV
+View(Inventario_sp )
+#Sumario da Planilha
+summary(Inventario_sp )
+#Verificar se latitude e longitude foram salvas como numero ou caracter
+sapply(Inventario_sp , mode)
+#Transformar as linhas em numerico
+Inventario_sp$Latitude <- as.numeric(Inventario_sp$Latitude)
+Inventario_sp$Longitude <- as.numeric(Inventario_sp$Longitude)
+#Verificar se a transformacao deu certo
+sapply(Inventario_sp, mode)
+#Plotar em um grafico as latitudes e as longitudes da tabela
+plot(Latitude~Longitude, data=Inventario_sp)
+#Formato espacial sf (Simple Features) para a geometria espacial dos objetos
+install.packages("sf", dependences=TRUE)
+#Importar a shape do limite da Mata Atlantica (MMA/IBGE)
+library(sf)
+mataatlantica_mma <- st_read("limite_ma_mma_wgs84.shp")
+#Consultar o Sistema de referencia de coordenadas (Coordinate Reference System = CRS)
+st_crs(mataatlantica_mma)
+#Visualizar o mapa do limite da Mata Atlantica (MMA/IBGE)
+plot(st_geometry(mataatlantica_mma))
+#excluindo NA's dos valores de latitude e longitude
+isp_shp <- subset(Inventario_sp, !is.na(Inventario_sp$Latitude))
+isp_shp  <- subset(Inventario_sp, !is.na(Inventario_sp$Longitude))
+#COnferir se nao ha valores NA em latitude e longitude
+teste <- is.na(Inventario_sp$Longitude)
+t <- unique(teste)
+teste2 <- is.na(Inventario_sp$Latitude)
+t2 <- unique(teste2)
+# Analise de dados espaciais “terra”
+library(terra)
+#Criando o shapefile georreferenciado
+isp_shp <- st_as_sf(isp_shp , coords = c("Longitude", "Latitude"), crs = 4326)
+plot(st_geometry(isp_shp ))
+#Salvando o arquivo shapefile dos pontos
+st_write(isp_shp , "inventario_sp.shp")
+#Fazendo a intersecao entre os dois shapefiles
+shapefile_inventariosp_Mataatlantica <- st_intersection(isp_shp,mataatlantica_mma)
+#Salvando o shapefile final
+st_write(shapefile_inventariosp_Mataatlantica, "inventario_sp_Mataatlantica.shp")
+View(shapefile_inventariosp_Mataatlantica)
+plot(st_geometry(shapefile_inventariosp_Mataatlantica))

@@ -1,0 +1,49 @@
+#Recorte do dataset Revisao bibliográfica Vanessa usando o limite da mata atlantica
+#Definir diretorio de trabalho
+setwd("D:/Github-Mamiferos-Urbanos-Mata-Atlantica/dataset")
+getwd()
+#Abrir planilha CSV
+lev_vanessa <- read.csv("levantamento_bibliografico_vanessa_dataset.csv", sep=",", header=T, dec='.', na.strings = c("NULL","NA",""), as.is=TRUE)
+#Visualizar CSV
+View(lev_vanessa)
+#Sumario da Planilha
+summary(lev_vanessa)
+#Verificar se latitude e longitude foram salvas como numero ou caracter
+sapply(lev_vanessa, mode)
+#Transformar as linhas em numerico
+lev_vanessa$Latitude <- as.numeric(lev_vanessa$Latitude)
+lev_vanessa$Longitude <- as.numeric(lev_vanessa$Longitude)
+#Verificar se a transformacao deu certo
+sapply(lev_vanessa, mode)
+#Plotar em um grafico as latitudes e as longitudes da tabela
+plot(Latitude~Longitude, data= lev_vanessa)
+#Formato espacial sf (Simple Features) para a geometria espacial dos objetos
+install.packages("sf", dependences=TRUE)
+#Importar a shape do limite da Mata Atlantica (MMA/IBGE)
+library(sf)
+mataatlantica_mma <- st_read("limite_ma_mma_wgs84.shp")
+#Consultar o Sistema de referencia de coordenadas (Coordinate Reference System = CRS)
+st_crs(mataatlantica_mma)
+#Visualizar o mapa do limite da Mata Atlantica (MMA/IBGE)
+plot(st_geometry(mataatlantica_mma))
+#excluindo NA's dos valores de latitude e longitude
+levva_shp <- subset(lev_vanessa, !is.na(lev_vanessa$Latitude))
+levva_shp <- subset(lev_vanessa, !is.na(lev_vanessa$Longitude))
+#Conferir se nao ha valores NA em latitude e longitude
+teste <- is.na(lev_vanessa$Longitude)
+t <- unique(teste)
+teste2 <- is.na(lev_vanessa$Latitude)
+t2 <- unique(teste2)
+# Analise de dados espaciais “terra”
+library(terra)
+#Criando o shapefile georreferenciado
+levva_shp<- st_as_sf(levva_shp, coords = c("Longitude", "Latitude"), crs = 4326)
+plot(st_geometry(levva_shp))
+#Salvando o arquivo shapefile dos pontos
+st_write(levva_shp, "levantamento_vanessa.shp")
+#Fazendo a intersecao entre os dois shapefiles
+shapefile_levantamentova_Mataatlantica <- st_intersection(levva_shp,mataatlantica_mma)
+#Salvando o shapefile final
+st_write(shapefile_levantamentova_Mataatlantica, "levantamento_vanessa_Mataatlantica.shp")
+View(shapefile_levantamentova_Mataatlantica)
+plot(st_geometry(shapefile_levantamentova_Mataatlantica))

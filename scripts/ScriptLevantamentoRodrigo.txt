@@ -1,0 +1,49 @@
+#Recorte do dataset Revisao bibliográfica Rodrigo usando o limite da mata atlantica
+#Definir diretorio de trabalho
+setwd("D:/Github-Mamiferos-Urbanos-Mata-Atlantica/dataset")
+getwd()
+#Abrir planilha CSV
+lev_rodrigo <- read.csv("levantamento_bibliografico_rodrigo_dataset.csv", sep=",", header=T, dec='.', na.strings = c("NULL","NA",""), as.is=TRUE)
+#Visualizar CSV
+View(lev_rodrigo)
+#Sumario da Planilha
+summary(lev_rodrigo)
+#Verificar se latitude e longitude foram salvas como numero ou caracter
+sapply(lev_rodrigo, mode)
+#Transformar as linhas em numerico
+lev_rodrigo$Latitude <- as.numeric(lev_rodrigo$Latitude)
+lev_rodrigo$Longitude <- as.numeric(lev_rodrigo$Longitude)
+#Verificar se a transformacao deu certo
+sapply(lev_rodrigo, mode)
+#Plotar em um grafico as latitudes e as longitudes da tabela
+plot(Latitude~Longitude, data= lev_rodrigo)
+#Formato espacial sf (Simple Features) para a geometria espacial dos objetos
+install.packages("sf", dependences=TRUE)
+#Importar a shape do limite da Mata Atlantica (MMA/IBGE)
+library(sf)
+mataatlantica_mma <- st_read("limite_ma_mma_wgs84.shp")
+#Consultar o Sistema de referencia de coordenadas (Coordinate Reference System = CRS)
+st_crs(mataatlantica_mma)
+#Visualizar o mapa do limite da Mata Atlantica (MMA/IBGE)
+plot(st_geometry(mataatlantica_mma))
+#excluindo NA's dos valores de latitude e longitude
+levro_shp <- subset(lev_rodrigo, !is.na(lev_rodrigo$Latitude))
+levro_shp <- subset(lev_rodrigo, !is.na(lev_rodrigo$Longitude))
+#Conferir se nao ha valores NA em latitude e longitude
+teste <- is.na(lev_rodrigo$Longitude)
+t <- unique(teste)
+teste2 <- is.na(lev_rodrigo$Latitude)
+t2 <- unique(teste2)
+# Analise de dados espaciais “terra”
+library(terra)
+#Criando o shapefile georreferenciado
+levro_shp<- st_as_sf(levro_shp, coords = c("Longitude", "Latitude"), crs = 4326)
+plot(st_geometry(levro_shp))
+#Salvando o arquivo shapefile dos pontos
+st_write(levro_shp, "levantamento_rodrigo.shp")
+#Fazendo a intersecao entre os dois shapefiles
+shapefile_levantamentoro_Mataatlantica <- st_intersection(levro_shp,mataatlantica_mma)
+#Salvando o shapefile final
+st_write(shapefile_levantamentoro_Mataatlantica, "levantamnto_rodrigo_Mataatlantica.shp")
+View(shapefile_levantamentoro_Mataatlantica)
+plot(st_geometry(shapefile_levantamentoro_Mataatlantica))

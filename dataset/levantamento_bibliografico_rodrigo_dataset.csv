@@ -1,0 +1,201 @@
+registro,especie,publicacao_selecionada,localidade,estado,Latitude_GMS,Longitude_GMS,Latitude,Longitude,UC
+1,Didelphis aurita,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+2,Didelphis aurita,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+3,Didelphis aurita,Gentile et al 2018,Pedra Branca State Park,RJ,22°55’57”S,43°26’34”W,-22.93833333,-43.40305556,Sim
+4,Didelphis aurita,Gentile et al 2018,Pedra Branca State Park,RJ,22°55’57”S,43°26’34”W,-22.93833333,-43.40305556,Sim
+5,Marmosa paraguayana,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+6,Marmosa paraguayana,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+7,Marmosa paraguayana,Gentile et al 2018,Pedra Branca State Park,RJ,22°55’57”S,43°26’34”W,-22.93833333,-43.40305556,Sim
+8,Metachirus nudicaudatus,Gentile et al 2018,Pedra Branca State Park,RJ,22°55’57”S,43°26’34”W,-22.93833333,-43.40305556,Sim
+9,Metachirus nudicaudatus,Gentile et al 2018,Pedra Branca State Park,RJ,22°55’57”S,43°26’34”W,-22.93833333,-43.40305556,Sim
+10,Gracilinanus microtarsus,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+11,Gracilinanus microtarsus,Gentile et al 2018,Pedra Branca State Park,RJ,22°55’57”S,43°26’34”W,-22.93833333,-43.40305556,Sim
+12,Monodelphis Americana,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+13,Monodelphis Americana,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+14,Akodon cursor,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+15,Akodon cursor,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+16,Oligoryzomys nigripes,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+17,Oligoryzomys nigripes,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+18,Oligoryzomys nigripes,Gentile et al 2018,Pedra Branca State Park,RJ,22°55’57”S,43°26’34”W,-22.93833333,-43.40305556,Sim
+19,Coendou spinosus,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+20,Rattus rattus,Gentile et al 2018,Campus FIOCRUZ Mata Atlântica,RJ,22°56’18”S,43°24’11”W,-22.93833333,-43.40305556,Não
+21,Bradypus variegatus,"de Andrade et al, 2020",Mata do Buraquinho,PB,07°08’15”S,34°51’45”W,-7.1375,-34.8625,Não
+22,Bradypus variegatus,"de Andrade et al, 2020",Universidade Federal da Paraiba,PB,07°08’15”S,34°50’45”W,-7.1375,-34.84583333,Não
+23,Callithrix jacchus,"de Andrade et al, 2020",Mata do Buraquinho,PB,07°08’15”S,34°51’45”W,-7.1375,-34.8625,Não
+24,Callithrix jacchus,"de Andrade et al, 2020",Universidade Federal da Paraiba,PB,07°08’15”S,34°50’45”W,-7.1375,-34.84583333,Não
+25,Holochilus brasiliensis,"Almeida et al, 2020",Campos dos Goytacazes,RJ,"21°46’40,094”S","41°19’51,481”W",-21.777804,-41.330967,Não
+26,Mus musculus,"Almeida et al, 2020",Campos dos Goytacazes,RJ,"21°46’40,094”S","41°19’51,481”W",-21.777804,-41.330967,Não
+27,Necromys lasiurus,"Almeida et al, 2020",Campos dos Goytacazes,RJ,"21°46’40,094”S","41°19’51,481”W",-21.777804,-41.330967,Não
+28,Cryptonanus sp.,"Almeida et al, 2020",Campos dos Goytacazes,RJ,"21°46’40,094”S","41°19’51,481”W",-21.777804,-41.330967,Não
+29,Bradypus variegatus,"Araujo & Moreira, 2020",João Pessoa,PB,07°08’54”S,34º53’06”W,-7.148333333,-34.885,Não
+30,Callithrix jacchus,"Araujo & Moreira, 2020",João Pessoa,PB,07°08’54”S,34º53’06”W,-7.148333333,-34.885,Não
+31,Cerdocyon thous,"Araujo & Moreira, 2020",João Pessoa,PB,07°08’54”S,34º53’06”W,-7.148333333,-34.885,Não
+32,Cavia sp.,"Araujo & Moreira, 2020",João Pessoa,PB,07°08’54”S,34º53’06”W,-7.148333333,-34.885,Não
+33,Dasyprocta prymnolopha,"Araujo & Moreira, 2020",João Pessoa,PB,07°08’54”S,34º53’06”W,-7.148333333,-34.885,Não
+34,Didelphis albiventris,"Araujo & Moreira, 2020",João Pessoa,PB,07°08’54”S,34º53’06”W,-7.148333333,-34.885,Não
+35,Thrichomys apereoides,"Araujo & Moreira, 2020",João Pessoa,PB,07°08’54”S,34º53’06”W,-7.148333333,-34.885,Não
+36,Rattus novergicus,"Araujo & Moreira, 2020",João Pessoa,PB,07°08’54”S,34º53’06”W,-7.148333333,-34.885,Não
+37,Didelphis albiventris,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+38,Didelphis aurita,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+39,Lutreolina crassicaudata,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+40,Dasypus novemcinctus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+41,Dasypus septemcinctus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+42,Euphractus sexcinctus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+43,Callithrix jacchus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+44,Callithrix penicillata,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+45,Lepus europaeus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+46,Sylvilagus brasiliensis,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+47,Felis catus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+48,Puma concolor,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+49,Puma yagouaroundi,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+50,Leopardus guttulus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+51,Canis familiaris,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+52,Cerdocyon thous,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+53,Galictis cuja,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+54,Eira barbara,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+55,Lontra longicaudis,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+56,Nasua nasua,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+57,Mazama gouazoubira,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+58,Sus scrofa,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+59,Calomys tener,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+60,Oligoryzomys nigripes,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+61,Rattus rattus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+62,Coendou spinosus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+63,Cavia aperea,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+64,Hydrochoerus hydrochaeris,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+65,Myocastor coypus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+66,Molossops temminckii,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+67,Molossus molossus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+68,Molossus rufus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+69,Carollia perspicillata,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+70,Desmodus rotundus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+71,Glossophaga soricina,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+72,Artibeus concolor,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+73,Artibeus planirostris,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+74,Artibeus lituratus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+75,Platyrrhinus lineatus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+76,Sturnira lilium,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+77,Histiotus velatus,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+78,Myotis nigricans,"de Abeu Bovo et al, 2018",Escola Superior de Agricultura Luiz de Queiroz,SP,22°42’30”S,47º37’30”W,-22.70833333,-47.625,Não
+79,Alouatta guariba clamitans,"Monticelli et al, 2022",Fontes Do Ipiranga State Park,SP,23°39’10”S,46º37’30”W,-23.65277778,-46.625,Sim
+80,Coendou spinosus,"Monticelli et al, 2022",Fontes Do Ipiranga State Park,SP,23°39’10”S,46º37’30”W,-23.65277778,-46.625,Sim
+81,Didelphis aurita,"Monticelli et al, 2022",Fontes Do Ipiranga State Park,SP,23°39’10”S,46º37’30”W,-23.65277778,-46.625,Sim
+82,Callithrix sp.,"Monticelli et al, 2022",Fontes Do Ipiranga State Park,SP,23°39’10”S,46º37’30”W,-23.65277778,-46.625,Sim
+83,Caluromys philander,"Monticelli et al, 2022",Fontes Do Ipiranga State Park,SP,23°39’10”S,46º37’30”W,-23.65277778,-46.625,Sim
+84,Didelphis albiventris,"Pereira et al, 2019",Centro de Ciências Biológicas da Universidade Estadual de Londrina,PR,"23°19’35,83”S","51°11’42,75”W",-23.32661944,-51.19520833,Não
+85,Didelphis albiventris,"Pereira et al, 2019",Horto da Universidade Estadual de Londrina,PR,"23°19’43,04”S","51°12’21,86”W",-23.32862222,-51.20607222,Não
+86,Sapajus nigritus,"Pereira et al, 2019",Campus da Universidade Estadual de Londrina,PR,"23°19’34,29”S","51°12’6,34”W",-23.32619167,-51.20176111,Não
+87,Bradypus variegatus,"Pedrosa et al, 2021",Praça Joao Pessoa,PB,"06°48’20,153”S","35°04’37,758”O",-6.808098,-35.077155,Não
+88,Bradypus variegatus,"Pedrosa et al, 2021","Centros de Triagem de Animais Silvestres, Cabedelo",PB,"07°03’47,693”S","34°51’21,910”O",-7.063248,-34.856086,Não
+89,Bradypus variegatus,"Pedrosa et al, 2021",Barra do Rio Mamanguape Environmental Protection Area,PB,6°45’19”S,34°59’22”W,-6.755277778,-34.98944444,Sim
+90,Bradypus variegatus,"Pedrosa et al, 2021",Parque Zoobotânico Arruda Câmara,PB,07°06’26”S,34°52’38”W,-7.107222222,-34.87722222,Não
+91,Mimon bennettii,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+92,Anoura caudifer,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+93,Anoura geoffroyi,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+94,Carollia perspicillata,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+95,Artibeus fimbriatus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+96,Artibeus lituratus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+97,Artibeus obscurus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+98,Artibeus planirostris,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+99,Pygoderma bilabiatum,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+100,Sturnira lilium,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+101,Noctilio leporinus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+102,Cynomops abrasus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+103,Eumops bonariensis,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+104,Eumops hansae,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+105,Molossus molossus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+106,Molossus rufus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+107,Nyctinomops aurispinosus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+108,Nyctinomops laticaudatus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+109,Promops nasutus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+110,Tadarida brasiliensis,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+111,Eptesicus brasiliensis,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+112,Eptesicus furinalis,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+113,Histiotus velatus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+114,Lasiurus blossevillii,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+115,Lasiurus cinereus,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+116,Lasiurus ega,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+117,Myotis levis,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+118,Myotis nigricans,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+119,Myotis ruber,"Bianconi & Miretzki,2021",Curitiba,PR,25°30’00”S,49°15’00”W,-25.5,-49.25,Não
+120,Nasua nasua,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+121,Didelphis aurita,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+122,Cuniculus paca,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+123,Dasypus novemcinctus,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+124,Dasyprocta leporina,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+125,Guerlinguetus brasiliensis,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+126,Sapajus nigritus,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+127,Canis lupus familiaris,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+128,Sylvilagus brasiliensis,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+129,Tamandua tetradactyla,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+130,Cerdocyon thous,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+131,Cavassous sp.,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+132,Felis catus,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+133,Procyon cancrivorus,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+134,Callithrix sp.,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+135,Cavia sp.,Monteiro & Lira; 2020,Floresta da Tijuca,RJ,22°57’00”S,43°15’00”W,-22.95,-43.25,Sim
+136,Marmosa murina,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°09’57,8”S","39°13’10,1”W",-15.16605556,-39.21947222,Não
+137,Marmosa murina,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°09’57,8”S","39°09’34,3”W",-15.16605556,-39.15952778,Não
+138,Marmosa murina,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°16’54,5”S","39°10’54,2”W",-15.28180556,-39.18172222,Não
+139,Marmosa murina,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°14’59,0”S","39°04’41,0”W",-15.24972222,-39.07805556,Não
+140,Marmosa murina,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°20’53,0”S","39°02’43,5”W",-15.34805556,-39.04541667,Não
+141,Marmosa murina,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°42’53,6”S","39°21’52,6”W",-15.71488889,-39.36461111,Não
+142,Marmosa murina,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°43’40,9”S","39°22’56,7”W",-15.72802778,-39.38241667,Não
+143,Marmosa murina,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°48’01,9”S","39°30’23,8”W",-15.80052778,-39.50661111,Não
+144,Marmosa murina,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°53’40,4”S","39°14’19,2”W",-15.89455556,-39.23866667,Não
+145,Marmosa incanus,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°43’40,9”S","39°22’56,7”W",-15.72802778,-39.38241667,Não
+146,Marmosa incanus,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°53’40,4”S","39°14’19,2”W",-15.89455556,-39.23866667,Não
+147,Marmosa demerarai,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°09’57,8”S","39°13’10,1”W",-15.16605556,-39.21947222,Não
+148,Marmosa demerarai,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°16’54,5”S","39°10’54,2”W",-15.28180556,-39.18172222,Não
+149,Marmosa demerarai,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°14’59,0”S","39°04’41,0”W",-15.24972222,-39.07805556,Não
+150,Monodelphis Americana,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°09’57,8”S","39°13’10,1”W",-15.16605556,-39.21947222,Não
+151,Monodelphis Americana,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°53’40,4”S","39°14’19,2”W",-15.89455556,-39.23866667,Não
+152,Gracilinanus agilis,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°48’01,9”S","39°30’23,8”W",-15.80052778,-39.50661111,Não
+153,Gracilinanus agilis,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°53’40,4”S","39°14’19,2”W",-15.89455556,-39.23866667,Não
+154,Didelphis aurita,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°16’54,5”S","39°10’54,2”W",-15.28180556,-39.18172222,Não
+155,Didelphis aurita,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°14’59,0”S","39°04’41,0”W",-15.24972222,-39.07805556,Não
+156,Hylaeamys laticeps,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°09’57,8”S","39°13’10,1”W",-15.16605556,-39.21947222,Não
+157,Hylaeamys laticeps,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°12’35,9”S","39°08’37,4”W",-15.20997222,-39.14372222,Não
+158,Hylaeamys laticeps,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°14’59,0”S","39°04’41,0”W",-15.24972222,-39.07805556,Não
+159,Akodon cursor,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°43’40,9”S","39°22’56,7”W",-15.72802778,-39.38241667,Não
+160,Akodon cursor,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°53’40,4”S","39°14’19,2”W",-15.89455556,-39.23866667,Não
+161,Rhipidomys mastacalis,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°12’35,9”S","39°08’37,4”W",-15.20997222,-39.14372222,Não
+162,Rhipidomys mastacalis,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°14’59,0”S","39°04’41,0”W",-15.24972222,-39.07805556,Não
+163,Rhipidomys mastacalis,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°48’01,9”S","39°30’23,8”W",-15.80052778,-39.50661111,Não
+164,Rhipidomys mastacalis,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°53’40,4”S","39°14’19,2”W",-15.89455556,-39.23866667,Não
+165,Thaptomys nigrita,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°12’35,9”S","39°08’37,4”W",-15.20997222,-39.14372222,Não
+166,Thaptomys nigrita,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°14’59,0”S","39°04’41,0”W",-15.24972222,-39.07805556,Não
+167,Thaptomys nigrita,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°53’40,4”S","39°14’19,2”W",-15.89455556,-39.23866667,Não
+168,Thaptomys nigrita,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°54’03,0”S","39°13’40,4”W",-15.90083333,-39.22788889,Não
+169,Oecomys catherinae,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°12’35,9”S","39°08’37,4”W",-15.20997222,-39.14372222,Não
+170,Oecomys catherinae,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°16’54,5”S","39°10’54,2”W",-15.28180556,-39.18172222,Não
+171,Oecomys catherinae,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°14’59,0”S","39°04’41,0”W",-15.24972222,-39.07805556,Não
+172,Oecomys catherinae,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°53’40,4”S","39°14’19,2”W",-15.89455556,-39.23866667,Não
+173,Calomys expulsus,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°48’01,9”S","39°30’23,8”W",-15.80052778,-39.50661111,Não
+174,Cerradomys subflavus,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°43’40,9”S","39°22’56,7”W",-15.72802778,-39.38241667,Não
+175,Oligoryzomys nigripes,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°12’35,9”S","39°08’37,4”W",-15.20997222,-39.14372222,Não
+176,Oligoryzomys nigripes,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°16’54,5”S","39°10’54,2”W",-15.28180556,-39.18172222,Não
+177,Oligoryzomys nigripes,"Fehlberg et al, 2021",Municipio de Una,Ba,"15°14’59,0”S","39°04’41,0”W",-15.24972222,-39.07805556,Não
+178,Oligoryzomys nigripes,"Fehlberg et al, 2021",Municipio de Mascote,Ba,"15°48’01,9”S","39°30’23,8”W",-15.80052778,-39.50661111,Não
+179,Euryoryzomys russatus,"Fehlberg et al, 2021",Municipio de Belmonte,Ba,"15°53’40,4”S","39°14’19,2”W",-15.89455556,-39.23866667,Não
+180,Callithrix penicillata,"Dias et al,2022",Jardim Botânico da UEG,Go,"18°27’12,33”S","50°26’18,830”W",-18.453425,-50.438564,Não
+181,Callithrix penicillata,"Dias et al,2022",Tenis Clube Eldorado Quirinopolis,Go,"18°26’31,776”S","50°26’18,240”W",-18.44216,-50.4384,Não
+182,Didelphis aurita,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+183,Dasypus novemcinctus,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+184,Cabassous tatouay,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+185,Euphractus sexcinctus,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+186,Bradypus variegatus,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+187,Tamandua tetradactyla,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+188,Callithrix sp.,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+189,Leontopithecus rosalia,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+190,Sapajus nigritus,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+191,Cerdocyon thous,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+192,Canis lupus familiaris,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+193,Nasua nasua,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+194,Procyon cancrivorus,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+195,Leopardus guttulus,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+196,Felis catus,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+197,Coendou spinosus,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+198,Cuniculus paca,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+199,Dasyprocta leporina,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim
+200,Sylvilagus tapetillus,"Veríssimo et al, 2022",Estação Biológica Fiocruz Mata Atlântica,RJ,"22°56'25"" S","43°24'18""W",-22.94027778,-43.405,Sim

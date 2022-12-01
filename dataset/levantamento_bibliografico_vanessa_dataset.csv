@@ -1,0 +1,165 @@
+registro,especie,publicacao_selecionada,localidade,estado,Latitude_GMS,Longitude_GMS,Latitude,Longitude,UC
+1,Canis lupus,Allemand_2019_Mastozoologia_Neotropical,Minicípio de Castelo,Espírito Santo,"-20º36'41""","-41º10'07""",-20.61138889,-41.16861111,Parque Estaudal Mata das Flores
+2,Mazama americana,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+3,Mazama americana,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+4,Mazama gouazoubira,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+5,Sus scrofa,Allemand_2019_Mastozoologia_Neotropical,Município de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+6,Canis familiaris,Allemand_2019_Mastozoologia_Neotropical,Município de São Luiz do Piratinga,São Paulo,"-23º13'17""","-45º18'37""",-23.22138889,-45.31027778,Não
+7,Canis familiaris,Allemand_2019_Mastozoologia_Neotropical,Municipio de Jacarei,São Paulo,"-23º18'10""","-45º17'30""",-23.30277778,-45.29166667,Não
+8,Canis familiaris,Allemand_2019_Mastozoologia_Neotropical,Munícipio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+9,Cerdocyon thous,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+10,Cerdocyon thous,Allemand_2019_Mastozoologia_Neotropical,Município de São Luiz do Piratinga,São Paulo,"-23º13'17""","-45º18'37""",-23.22138889,-45.31027778,Não
+11,Cerdocyon thous,Allemand_2019_Mastozoologia_Neotropical,Municipio de Jacarei,São Paulo,"-23º18'10""","-45º17'30""",-23.30277778,-45.29166667,Não
+12,Cerdocyon thous,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+13,Cerdocyon thous,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+14,Cerdocyon thous,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+15,Felis catus,Allemand_2019_Mastozoologia_Neotropical,Município de São Luiz do Piratinga,São Paulo,"-23º13'17""","-45º18'37""",-23.22138889,-45.31027778,Não
+16,Felis catus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+17,Leopardus guttulus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+18,Leopardus pardalis,Allemand_2019_Mastozoologia_Neotropical,Município de São Luiz do Piratinga,São Paulo,"-23º13'17""","-45º18'37""",-23.22138889,-45.31027778,Não
+19,Puma concolor,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+20,Herpailurus yagouaroundi,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+21,Eira barbara,Allemand_2019_Mastozoologia_Neotropical,Município de São Luiz do Piratinga,São Paulo,"-23º13'17""","-45º18'37""",-23.22138889,-45.31027778,Não
+22,Eira barbara,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+23,Eira barbara,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+24,Eira barbara,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+25,Galictis cuja,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+26,Galictis cuja,Allemand_2019_Mastozoologia_Neotropical,Municipio de Jacarei,São Paulo,"-23º18'10""","-45º17'30""",-23.30277778,-45.29166667,Não
+27,Galictis cuja,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+28,Galictis vittata,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+29,Galictis vittata,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+30,Lontra longicaudis,Allemand_2019_Mastozoologia_Neotropical,Municipio de Jacarei,São Paulo,"-23º18'10""","-45º17'30""",-23.30277778,-45.29166667,Não
+31,Lontra longicaudis,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+32,Nasua nasua,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+33,Nasua nasua,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+34,Nasua nasua,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+35,Nasua nasua,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+36,Molossops temminckii,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+37,Molossus colossos,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+38,Molossus rufus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+39,Anoura caudifer,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+40,Artibeus concolor,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+41,Artibeus lituratus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+42,Artibeus lituratus,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+43,Artibeus lituratus,Allemand_2019_Mastozoologia_Neotropical,Distrito de Talhados ,São Paulo,"-20º42'33""","-49º18'53""",-20.70916667,-49.31472222,Não
+44,Artibeus planirostris,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+45,Artibeus planirostris,Allemand_2019_Mastozoologia_Neotropical,Distrito de Talhados ,São Paulo,"-20º42'33""","-49º18'53""",-20.70916667,-49.31472222,Não
+46,Carollia perspicillata,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+47,Carollia perspicillata,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+48,Carollia perspicillata,Allemand_2019_Mastozoologia_Neotropical,Distrito de Talhados ,São Paulo,"-20º42'33""","-49º18'53""",-20.70916667,-49.31472222,Não
+49,Desmodus rotundus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+50,Glossophaga soricina,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+51,Glossophaga soricina,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+52,Glossophaga soricina,Allemand_2019_Mastozoologia_Neotropical,Distrito de Talhados ,São Paulo,"-20º42'33""","-49º18'53""",-20.70916667,-49.31472222,Não
+53,Platyrrhinus lineatus,Allemand_2019_Mastozoologia_Neotropical,Distrito de Talhados ,São Paulo,"-20º42'33""","-49º18'53""",-20.70916667,-49.31472222,Não
+54,Platyrrhinus lineatus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+55,Sturnira lilium,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+56,Sturnira lilium,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+57,Sturnira lilium,Allemand_2019_Mastozoologia_Neotropical,Distrito de Talhados ,São Paulo,"-20º42'33""","-49º18'53""",-20.70916667,-49.31472222,Não
+58,Histiotus velatus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+59,Myotis nigricans,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+60,Myotis nigricans,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+61,Euphractus sexcinctus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+62,Euphractus sexcinctus,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+63,Euphractus sexcinctus,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+64,Dasypus novemcinctus,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+65,Dasypus novemcinctus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+66,Dasypus novemcinctus,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+67,Dasypus novemcinctus,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+68,Dasypus septemcinctus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+69,Didelphis albiventris,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+70,Didelphis albiventris,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+71,Didelphis albiventris,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+72,Didelphis albiventris,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+73,Didelphis albiventris,Allemand_2019_Mastozoologia_Neotropical,Município de São Luiz do Piratinga,São Paulo,"-23º13'17""","-45º18'37""",-23.22138889,-45.31027778,Não
+74,Didelphis aurita,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+75,Didelphis aurita,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+76,Didelphis aurita,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+77,Didelphis aurita,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+78,Didelphis aurita,Allemand_2019_Mastozoologia_Neotropical,Municipio de Jacarei,São Paulo,"-23º18'10""","-45º17'30""",-23.30277778,-45.29166667,Não
+79,Didelphis marsupialis,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+80,Marmosops incanus,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+81,Lutreolina crassicaudata,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+82,Micoureus cinereus,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+83,Micoureus cinereus,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+84,Lepus europaeus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+85,Lepus europaeus,Allemand_2019_Mastozoologia_Neotropical,Município de São Luiz do Piratinga,São Paulo,"-23º13'17""","-45º18'37""",-23.22138889,-45.31027778,Não
+86,Sylvilagus brasiliensis,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+87,Sylvilagus brasiliensis,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+88,Sylvilagus brasiliensis,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+89,Sylvilagus brasiliensis,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+90,Callicebus nigrifrons,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+91,Callicebus nigrifrons,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+92,Callicebus personatus,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+93,Callicebus personatus,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+94,Callithrix aurita,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+95,Callithrix aurita,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+96,Callithrix jacchus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+97,Cebus nigritus,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+98,Cebus nigritus,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+99,Callithrix penicillata,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+100,Callithrix jacchus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+101,Akodon cursor,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+102,Akodon montensis,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+103,Akodon montensis,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+104,Bolomys lasiurus,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+105,Calomys tener,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+106,Calomys tener,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+107,Calomys tener,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+108,Holochilus brasiliensis,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+109,Holochilus brasiliensis,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+110,Nectomys squamipes,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+111,Nectomys squamipes,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+112,Oxymycterus hispidus,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+113,Oxymycterus nasutus,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+114,Oligoryzomys nigripes,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+115,Oligoryzomys nigripes,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+116,Oligoryzomys nigripes,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+117,Oligoryzomys nigripes,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+118,Oryzomys angouya,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+119,Rattus norvegicus,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+120,Rattus rattus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+121,Euryzygomatomys spinosus,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+122,Myocastor coypus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+123,Cavia aperea,Allemand_2019_Mastozoologia_Neotropical,Município de Itapevi,São Paulo,"-23º32'56""","-46º56'02""",-23.54888889,-46.93388889,Não
+124,Cavia aperea,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+125,Hydrochoerus hydrochaeris,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+126,Hydrochoerus hydrochaeris,Allemand_2019_Mastozoologia_Neotropical,Município de São Luiz do Piratinga,São Paulo,"-23º13'17""","-45º18'37""",-23.22138889,-45.31027778,Não
+127,Hydrochoerus hydrochaeris,Allemand_2019_Mastozoologia_Neotropical,Municipio de Jacarei,São Paulo,"-23º18'10""","-45º17'30""",-23.30277778,-45.29166667,Não
+128,Hydrochoerus hydrochaeris,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+129,Sciurus ingrami,Allemand_2019_Mastozoologia_Neotropical,Município de Rio Claro,São Paulo,"-22º24'39""","-47º33""39""",-22.41083333,-47.56083333,Não
+130,Sciurus ingrami,Allemand_2019_Mastozoologia_Neotropical,Município de Ararars,São Paulo,"-22º21'25""","-47º23""03""",-22.35694444,-47.38416667,Não
+131,Coendou spinosus,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+132,Coendou spinosus,Allemand_2019_Mastozoologia_Neotropical,Município de Sorocaba,São Paulo,"-23º21'17""","-47º30'11""",-23.35472222,-47.50305556,Não
+133,Coendou prehensilis,Allemand_2019_Mastozoologia_Neotropical,Munícpio de Piracicaba,São Paulo,"-22º43'30""","-47º38'56""",-22.725,-47.64888889,Não
+134,Chironectes minimus,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+135,Didelphis aurita,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+136,Philander quica,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+137,Dasypus novemcinctus,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+138,Leopardus pardalis,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+139,Lontra longicaudis,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+140,Procyon cancrivorus,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+141,Tapirus terrestris,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+142,Mazama sp.,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+143,Guerlinguetus brasiliensis,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+144,Cuniculus paca,Alves_2021_Biota_Neotropica,Estrada Parque Serra da Macaca,São Paulo,"-24º08'00""","-47º58'00""",-24.13333333,-47.96666667,Parque Estadual Carlos Botelho
+145,"Chrysocyon
+brachyurus",Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+146,Cerdocyon thous,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+147,Canis familiaris,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+148,Felis catus,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+149,Nasua nasua,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+150,Euphractus sexcinctus,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+151,Dasypus novemcinctus,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+152,Didelphis albiventris,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+153,Sylvilagus brasiliensis,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+154,Equus caballus,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+155,Sapajus libidinosus,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+156,Callithrix penicillata,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+157,Hydrochoerus hydrochaeris,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+158,Cuniculus paca,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+159,Cavia aperea,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+160,Dasyprocta leporina,Barros_2021_Research_Society_and_Developmente,Cidade de Franca,São Paulo,"-20º28'37""","-47º24'11""",-20.47694444,-47.40305556,Zoobotanic Garden
+161,Callithrix aurita,Pagoto_2020_Etnobiologia,Município de Mogi das Cruzes ,São Paulo, -23º33’20”,-46º10’43”,-23.55555556,-46.17861111,Não
+162,Callithrix jacchus,Pagoto_2020_Etnobiologia,Município de Mogi das Cruzes ,São Paulo, -23º33’20”,-46º10’43”,-23.55555556,-46.17861111,Não
+163,Cebus apella,Pagoto_2020_Etnobiologia,Município de Mogi das Cruzes ,São Paulo, -23º33’20”,-46º10’43”,-23.55555556,-46.17861111,Não
